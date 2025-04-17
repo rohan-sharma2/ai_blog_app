@@ -41,6 +41,8 @@ This project integrates **Artificial Intelligence of Things (AIoT)** with **Tiny
 ```bash
 git clone https://github.com/rohan-sharma2/ai_blog_app.git
 cd aiot-smart-glasses
+```
+---
 
 ### 2. Set Up Environment
 
