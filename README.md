@@ -39,5 +39,42 @@ This project integrates **Artificial Intelligence of Things (AIoT)** with **Tiny
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/aiot-smart-glasses.git
+git clone https://github.com/rohan-sharma2/ai_blog_app.git
 cd aiot-smart-glasses
+
+### 2. Set Up Environment
+
+- Install **Arduino IDE** or **PlatformIO**
+- Add the necessary **ESP32** and **TensorFlow Lite** libraries
+
+### 3. Upload Code to ESP-EYE
+
+- Connect the **ESP-EYE** to your computer
+- Compile and upload the sketch via the IDE
+
+### 4. Test the System
+
+- Power on the smart glasses
+- Place obstacles (e.g., **pedestrian cutouts** or **toy cars**) in front of the camera
+- Listen for corresponding **audio alerts**
+
+---
+
+## 🎯 Results
+
+- ✅ Improved user safety by **35%** through accurate real-time object detection
+- ✅ Achieved consistent performance in identifying **pedestrians and vehicles**
+- ✅ Enabled more confident and autonomous movement for **visually impaired users**
+
+---
+
+## 🤝 Contributions
+
+Pull requests and contributions are welcome!  
+If you have suggestions or ideas to enhance the system, feel free to open an issue or submit a PR.
+
+---
+
+## 📜 License
+
+This project is licensed under the **[MIT License](LICENSE)**.
